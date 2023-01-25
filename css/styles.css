@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+h1{
+    color: darkred;
+    font-family: 'Parisienne', cursive;
+    font-size: 100px;
+}
+h2{
+    color: darkred;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+}
+h3{
+    color: darkred;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+/*------------Class Selectors------------------*/
+.top-section{
+    background-color: olive;
+    position: relative;
+    padding-top: 50px;
+    
+
+
+}
+.top-cloud{
+    position: absolute;
+    right: 270px;
+    top: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 270px;
+}
+.profile-pic{
+    margin-top: 50px;
+border-radius: 100%;
+width: 200px;
+
+}
+.ruler{
+    height: 20px;
+    border-width: 10px;
+    width: 10%;
+    border-style: dotted none none;
+    margin-top: 50px;
+    
+}
+.middle-section{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    line-height: 2;
+}
+.comp-img{
+    border-radius: 100%;
+width: 200px;
+float: left;
+padding-right: 30px;
+
+}
+.skill-row{
+    text-align: left;
+}
+.chilli-img{
+    border-radius: 100%;
+width: 200px;
+float: right;
+padding-left: 30px;
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 20px;
+    background: #7d850f;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #bfc43d;
+    text-decoration: none;
+  }
+  .third-div{
+    background-color: #bfc43d;
+     padding: 30px 0;
+ }
+ .contact{
+    margin-bottom: 30px;
+ }
+ .footer-link{
+    text-align:center;
+    margin: auto 10px ;
+ }
